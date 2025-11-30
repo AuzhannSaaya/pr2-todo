@@ -46,7 +46,7 @@ public class TodoApp {
                     if (all.isEmpty()) System.out.println("(empty)");
                     break;
                 case "exit":
-                    System.out.println("Bye!");
+                    System.out.println("Пока!");
                     scanner.close();
                     return;
                 default:
